@@ -1,0 +1,27 @@
+body {
+    background-image: "pexels-padrinan-255379.jpg ";
+    background-attachment: fixed;
+height: 100vh;
+background-size: cover;
+background-position: senter;
+background-repeat: no-repeat;
+text-align:center;
+}
+img {
+    width:300px ;
+}
+h1 {
+    text-align: center;
+    color: rgba(255, 0, 166, 0.479);
+}
+
+h2 {
+    color: blue;
+}
+h3 {
+    color :blueviolet
+}
+p {
+    color:brown
+   
+}
